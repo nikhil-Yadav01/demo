@@ -1,4 +1,4 @@
 # demo
 Demo Repository.
 <br>
-Author: Nikhil Yadav
+Author: Nikhil Yadav (Student)
